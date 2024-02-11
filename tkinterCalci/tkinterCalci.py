@@ -3,7 +3,7 @@ import tkinter as tk
 root = tk.Tk()
 
 # click function Code
-global scvalue
+global scvalueco
 def click(event):
     text = event.widget.cget("text")
     print(text)
