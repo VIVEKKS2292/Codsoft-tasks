@@ -11,7 +11,7 @@ This repository consists of source code related to tasks accomplished for Codsof
 - To-do list
 - Calculator
 
-Todo list and calculator are done using Python's GUI library, TKinter, and password generator is command-line-based.
+Todo list and calculator are done using Python's GUI library, Tkinter, and password generator is command-line-based.
 
 Todo list helps to add, modify and delete todos. One can also mark a task as done and check the count of remaining tasks. 
 The calculator uses the eval() function to perform its airthmetic functions. 
